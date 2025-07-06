@@ -3,6 +3,10 @@
 ## 🧾 Project Overview
 This Power BI project provides a comprehensive view of Blinkit’s sales performance across outlet locations, sizes, types, and product categories. Designed for actionable insights, the dashboard supports business decision-making by highlighting sales drivers and outlet characteristics.
 
+## Dataset Used
+
+https://github.com/Rajeeb1994/Blinkit---Sales-Dashboard---PowerBi/blob/main/BlinkIT%20Grocery%20Data.xlsx
+
 ## 📈 Key Insights
 - **Total Sales**: $1.20M
 - **Average Sales per Transaction**: $141
@@ -40,6 +44,11 @@ This Power BI project provides a comprehensive view of Blinkit’s sales perform
 - `.pbip` project folder with report and metadata
 - `README.md` file (this one!)
 - Optional: PDF export or dashboard screenshots
+
+## Analysis
+
+![image](https://github.com/user-attachments/assets/2d12c736-4906-4924-9097-9312b83c668f)
+
 
 ## 🚀 How to Run the Project
 1. Open Power BI Desktop and enable **PBIP preview feature**.
